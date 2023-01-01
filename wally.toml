@@ -1,0 +1,9 @@
+[package]
+name = "xswezan/modulename"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Janitor = "howmanysmall/janitor@1.15.1"
+Promise = "evaera/promise@4.0.0"
