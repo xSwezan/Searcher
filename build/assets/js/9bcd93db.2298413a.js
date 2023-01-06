@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[626],{3891:e=>{e.exports=JSON.parse('{"sourceUrl":"https://github.com/xSwezan/Searcher/blob/master","baseUrl":"/Searcher/","classOrder":[],"apiCategories":[]}')}}]);

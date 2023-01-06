@@ -1,5 +1,5 @@
 {
-	"name": "ModuleName",
+	"name": "searcher",
 	"tree": {
 		"$path": "lib"
 	}

@@ -1,0 +1,13 @@
+gitRepoUrl = "https://github.com/xSwezan/Searcher"
+gitSourceBranch = "main"
+
+classorder = [
+
+]
+
+[home]
+enabled = true
+includeReadme = false
+
+[docusaurus]
+tagline = "Searcher"
